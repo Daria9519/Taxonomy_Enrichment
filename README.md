@@ -1,2 +1,2 @@
-# Taxonomy_Enrichment
+# Taxonomy_Enrichment... to be continued....
 Application of neural network methods for automatic taxonomy enrichment for the Russian language
